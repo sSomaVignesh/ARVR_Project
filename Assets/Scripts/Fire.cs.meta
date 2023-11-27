@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02f094874a0c940489d86d46e41c8366
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireBurning: {fileID: 8300000, guid: 7e9960f3978394aa5bbcd7b7ce250f63, type: 3}
+  - wrongFireExtinguisher: {fileID: 8300000, guid: 9d613e6637b2c4c038c802ca78b051e8, type: 3}
+  - correctFireExtinguisher: {fileID: 8300000, guid: 8f6f994663e0243019284618b2c73369, type: 3}
+  - correctTick: {fileID: 3028729280483035504, guid: 5a3c983668d4b40d7986afa8a4db6566, type: 3}
+  - wrongCross: {fileID: 5185938609096607893, guid: f1be74eb4b25f423981c4bea64f27f8f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
