@@ -2,7 +2,7 @@
 game that enhances the fire safety education experience for you through a fun and immersive journey
 
 # Description of game
-Fire Escape : You have to identify the appropriate and relevant steps to take in a fire evacuation scenario to leave the building safely.
+Fire Extinguish : You have to identify the appropriate type of fire extinguisher and take relevant steps in a scenario, where the warehouse catches fire, to extinguish it.
 
 ## Instructions to run
 1. Clone Project
