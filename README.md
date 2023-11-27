@@ -10,5 +10,5 @@ Fire Extinguish : You have to identify the appropriate type of fire extinguisher
 3. Select "Fire Class level" scene and run
 
 ## Team No 27
-1. S. Soma Vignesh
-2. S. Sri Vignesh
+1. S. Soma Vignesh - 106121134
+2. S. Sri Vignesh - 106121130
